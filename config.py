@@ -1,0 +1,3 @@
+# config.py
+NUM_SERVERS = 3
+MAX_SERVER_CAPACITY = 100
